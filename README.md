@@ -1,4 +1,4 @@
-# Artificial Intelligence On Azure
+# Artificial Intelligence on Azure
 
 ## What is AI ?
 
