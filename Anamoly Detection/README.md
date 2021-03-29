@@ -9,3 +9,7 @@ Imagine you're creating a software system to monitor credit card transactions.
 These kinds of scenario can be addressed by using anomaly detection - a machine learning based technique that analyzes data over time and identifies unusual changes.
 
 In Microsoft Azure, the Anomaly Detector service provides an application programming interface (API) that developers can use to create anomaly detection solutions
+
+## References
+
+https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/3-understand-anomaly-detection
