@@ -1,5 +1,7 @@
 # Artificial Intelligence on Azure
 
+**This repository describes everything that you need for passing the  Microsoft AI-900 Azure AI Fundamentals exam.**
+
 ## What is AI ?
 
 Artificial intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions.
