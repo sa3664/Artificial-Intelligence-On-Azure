@@ -11,3 +11,7 @@ Microsoft Azure provides the Azure Machine Learning service - a cloud-based plat
 **Data and compute management** -	Cloud-based data storage and compute resources that professional data scientists can use to run data experiment code at scale.
 
 **Pipelines** -	Data scientists, software engineers, and IT operations professionals can define pipelines to orchestrate model training, deployment, and management tasks.
+
+## References
+
+https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/2-understand-machine-learn
